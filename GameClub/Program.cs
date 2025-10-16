@@ -24,8 +24,6 @@ namespace GameClub
             center.GetHistoryAcc("Lipsq");
 
             center.ShowHistory("Lipsq");
-
-            Fi
         }
     }
 }
